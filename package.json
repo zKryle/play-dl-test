@@ -39,7 +39,8 @@
   },
   "homepage": "https://github.com/play-dl/play-dl#readme",
   "files": [
-    "dist/*"
+    "dist/*",
+    "src/*"
   ],
   "devDependencies": {
     "@types/node": "^18.7.23",

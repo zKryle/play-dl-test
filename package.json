@@ -40,7 +40,7 @@
   "homepage": "https://github.com/play-dl/play-dl#readme",
   "files": [
     "dist/*",
-    "src/*"
+    "play-dl/*"
   ],
   "devDependencies": {
     "@types/node": "^18.7.23",
